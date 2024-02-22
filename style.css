@@ -1,0 +1,38 @@
+#container{
+    border: solid 1px;
+    border-color: black;
+    padding: 20px;
+    margin: 0 auto;
+    width: 50%;
+}
+.input{
+    width: 80%;
+    height: 15px;
+    margin-right: 18px;
+    margin-left: 18px;
+}
+button{
+   padding: 6px 12px; 
+   border: none;
+   background-color: black;
+   color: white;
+   border-radius: 1px;
+   width: 80%;
+}
+table,th,td{
+    border: solid 1px;
+    padding: 20px;
+    width: 50%;
+    height: 30px;
+    margin: 0 auto;
+}
+ .google{
+height: 1px;
+width: 1%;
+}
+
+.facebook{
+    height: 1px;
+    width: 1%;
+
+}
